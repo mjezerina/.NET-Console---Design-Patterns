@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>-v DZ_2_vozila.txt -l DZ_2_lokacije.txt -c DZ_2_cjenik.txt -k DZ_2_lokacije_kapaciteti.txt -o DZ_2_osobe.txt -t „2020-10-16 08:00:00" -os DZ_2_tvrtka.txt</StartArguments>
+    <StartWorkingDirectory>C:\Users\Matija\source\repos\mjezerina_zadaca_2\mjezerina_zadaca_2\parameters\</StartWorkingDirectory>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,7 @@
+C:\Users\Matija\Desktop\mjezerina_zadaca_2\mjezerina_zadaca_2\mjezerina_zadaca_2\bin\Debug\mjezerina_zadaca_2.exe.config
+C:\Users\Matija\Desktop\mjezerina_zadaca_2\mjezerina_zadaca_2\mjezerina_zadaca_2\bin\Debug\mjezerina_zadaca_2.exe
+C:\Users\Matija\Desktop\mjezerina_zadaca_2\mjezerina_zadaca_2\mjezerina_zadaca_2\bin\Debug\mjezerina_zadaca_2.pdb
+C:\Users\Matija\Desktop\mjezerina_zadaca_2\mjezerina_zadaca_2\mjezerina_zadaca_2\obj\Debug\mjezerina_zadaca_2.csprojAssemblyReference.cache
+C:\Users\Matija\Desktop\mjezerina_zadaca_2\mjezerina_zadaca_2\mjezerina_zadaca_2\obj\Debug\mjezerina_zadaca_2.csproj.CoreCompileInputs.cache
+C:\Users\Matija\Desktop\mjezerina_zadaca_2\mjezerina_zadaca_2\mjezerina_zadaca_2\obj\Debug\mjezerina_zadaca_2.exe
+C:\Users\Matija\Desktop\mjezerina_zadaca_2\mjezerina_zadaca_2\mjezerina_zadaca_2\obj\Debug\mjezerina_zadaca_2.pdb
